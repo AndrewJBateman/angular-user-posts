@@ -1,6 +1,6 @@
 # Angular API User Posts
 
-* App to get user details and posts from an external API.
+* App to get user details and posts from an external [JSONPlaceholder](https://jsonplaceholder.typicode.com) API.
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -21,7 +21,7 @@
 
 * Angular httpClient used to get API data.
 
-* Sidebar with Google Material icons and links to pages.
+* Sidebar with [Google Material](https://material.io/) icons and links to pages.
 
 ## Screenshots
 

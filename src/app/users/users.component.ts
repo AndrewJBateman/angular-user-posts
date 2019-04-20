@@ -15,7 +15,7 @@ import { trigger,style,transition,animate,keyframes,query,stagger } from '@angul
           [
             style({ opacity: 0, transform: 'translateY(-15px)' }),
             stagger(
-              '50ms',
+              '200ms',
               animate(
                 '550ms ease-out',
                 style({ opacity: 1, transform: 'translateY(0px)' })
@@ -24,7 +24,7 @@ import { trigger,style,transition,animate,keyframes,query,stagger } from '@angul
           ],
           { optional: true }
         ),
-        query(':leave', animate('50ms', style({ opacity: 0 })), {
+        query(':leave', animate('100ms', style({ opacity: 0 })), {
           optional: true
         })
       ])
