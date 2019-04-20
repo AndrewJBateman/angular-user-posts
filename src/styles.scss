@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: #F2F2F2;
+    background: rgb(247, 197, 244);
     font-family: 'Montserrat', sans-serif;
     height: 100vh;
 }
@@ -15,7 +15,8 @@ body {
 
        ul {
            list-style-type: none;
-           margin:0;padding:0;
+           margin:0;
+           padding:0;
        
            li {
                background: #fff;

@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { DataService } from '../data.service';
-import { Observable, throwError } from "rxjs";
 
 @Component({
   selector: 'app-posts',
@@ -18,7 +17,5 @@ export class PostsComponent implements OnInit {
     this.data.getPosts().subscribe(
       (data: any) => this.posts$ = data
     )
-
   }
-
 }
