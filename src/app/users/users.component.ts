@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { DataService } from '../data.service';
-import { Observable, throwError } from "rxjs";
-import { trigger,style,transition,animate,keyframes,query,stagger } from '@angular/animations';
+import { Observable, throwError } from 'rxjs';
+import { trigger, style, transition, animate, keyframes, query, stagger } from '@angular/animations';
 
 @Component({
   selector: 'app-users',
@@ -39,7 +39,7 @@ export class UsersComponent implements OnInit {
 
   ngOnInit() {
     this.data.getUsers().subscribe(
-      (data : any) => this.users$ = data
+      (data: any) => this.users$ = data
     );
   }
 

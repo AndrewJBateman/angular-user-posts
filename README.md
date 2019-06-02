@@ -30,9 +30,11 @@
 
 ## Technologies
 
-* [Angular v7.2.13](https://angular.io/) & [Angular CLI v7.3.8](https://cli.angular.io/).
+* [Angular v8.0.0](https://angular.io/)
 
-* [RxJS Library v6.4.0](https://angular.io/guide/rx-library) used to [subscribe](http://reactivex.io/documentation/operators/subscribe.html) to the API data [observable](http://reactivex.io/documentation/observable.html).
+* [Angular CLI v8.0.1](https://cli.angular.io/).
+
+* [RxJS Library v6.5.2](https://angular.io/guide/rx-library) used to [subscribe](http://reactivex.io/documentation/operators/subscribe.html) to the API data [observable](http://reactivex.io/documentation/observable.html).
 
 * [Google Material](https://material.io/) icons used.
 
@@ -77,20 +79,18 @@ export class DataService {
 
 * Material icons used.
 
-* Updated to latest Angular 7 version with all dependency conflicts resolved.
+* Updated to latest Angular 8 version with all dependency conflicts resolved.
 
 ## Status & To-Do List
 
-* Status: Simple working app that extracts API data and displays it.
+* Status: Working. Simple working app that extracts API data and displays it.
 
 * To-Do: add functionality.
 
 ## Inspiration
 
-* [Gary Simon of Coursetro Tutorial: Learn Angular 5 in less than 60 Minutes - Free Beginner's Course](https://www.youtube.com/watch?v=oa9cnWTpqP8&t=50s)
 * [Coursetro Tutorial written version: Angular 6 Tutorial - Learn Angular 6 in this Crash Course](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course)
-* [DZone article, Upgrade to Angular 7 in 5 Simple Steps](https://dzone.com/articles/upgrade-to-angular-7-in-5-simple-steps-1)
 
 ## Contact
 
-Created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
