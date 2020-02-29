@@ -18,9 +18,7 @@
 ## General info
 
 * Angular routing module allows user to navigate between Users and Posts pages.
-
 * Angular httpClient used to get API data.
-
 * Sidebar with [Google Material](https://material.io/) icons and links to pages.
 
 ## Screenshots
@@ -30,12 +28,8 @@
 
 ## Technologies
 
-* [Angular v8.0.0](https://angular.io/)
-
-* [Angular CLI v8.0.1](https://cli.angular.io/).
-
-* [RxJS Library v6.5.2](https://angular.io/guide/rx-library) used to [subscribe](http://reactivex.io/documentation/operators/subscribe.html) to the API data [observable](http://reactivex.io/documentation/observable.html).
-
+* [Angular v9.1.0](https://angular.io/)
+* [RxJS Library v6.5.4](https://angular.io/guide/rx-library) used to [subscribe](http://reactivex.io/documentation/operators/subscribe.html) to the API data [observable](http://reactivex.io/documentation/observable.html).
 * [Google Material](https://material.io/) icons used.
 
 ## Setup
@@ -76,15 +70,12 @@ export class DataService {
 ## Features
 
 * Angular httpClient used to get data from an external API.
-
 * Material icons used.
-
-* Updated to latest Angular 8 version with all dependency conflicts resolved.
+* Updated to latest Angular 9 version with all dependency conflicts resolved.
 
 ## Status & To-Do List
 
 * Status: Working. Simple working app that extracts API data and displays it.
-
 * To-Do: add functionality.
 
 ## Inspiration
