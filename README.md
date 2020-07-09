@@ -1,42 +1,45 @@
-# Angular API User Posts
+# :zap: Angular API User Posts
 
 * App to get user details and posts from an external [JSONPlaceholder](https://jsonplaceholder.typicode.com) API.
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
-## Table of contents
+## :page_facing_up: Table of contents
 
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [:zap: Angular API User Posts](#zap-angular-api-user-posts)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:books: General info](#books-general-info)
+  * [:camera: Screenshots](#camera-screenshots)
+  * [:signal_strength: Technologies](#signal_strength-technologies)
+  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:computer: Code Examples](#computer-code-examples)
+  * [:cool: Features](#cool-features)
+  * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
+  * [:clap: Inspiration](#clap-inspiration)
+  * [:envelope: Contact](#envelope-contact)
 
-## General info
+## :books: General info
 
 * Angular routing module allows user to navigate between Users and Posts pages.
 * Angular httpClient used to get API data.
 * Sidebar with [Google Material](https://material.io/) icons and links to pages.
 
-## Screenshots
+## :camera: Screenshots
 
 ![Example screenshot](./img/users.png).
 ![Example screenshot](./img/posts.png).
 
-## Technologies
+## :signal_strength: Technologies
 
-* [Angular v9.1.0](https://angular.io/)
-* [RxJS Library v6.5.4](https://angular.io/guide/rx-library) used to [subscribe](http://reactivex.io/documentation/operators/subscribe.html) to the API data [observable](http://reactivex.io/documentation/observable.html).
+* [Angular 10](https://angular.io/)
+* [RxJS Library v6](https://angular.io/guide/rx-library) used to [subscribe](http://reactivex.io/documentation/operators/subscribe.html) to the API data [observable](http://reactivex.io/documentation/observable.html).
 * [Google Material](https://material.io/) icons used.
 
-## Setup
+## :floppy_disk: Setup
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code Examples
+## :computer: Code Examples
 
 * `data.service.ts` using httpClient service with functions to get users, userIds and posts.
 
@@ -67,21 +70,21 @@ export class DataService {
 
 ```
 
-## Features
+## :cool: Features
 
 * Angular httpClient used to get data from an external API.
 * Material icons used.
-* Updated to latest Angular 9 version with all dependency conflicts resolved.
+* Updated to latest Angular 10 version with all dependency conflicts resolved.
 
-## Status & To-Do List
+## :clipboard: Status & To-Do List
 
 * Status: Working. Simple working app that extracts API data and displays it.
 * To-Do: add functionality.
 
-## Inspiration
+## :clap: Inspiration
 
 * [Coursetro Tutorial written version: Angular 6 Tutorial - Learn Angular 6 in this Crash Course](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course)
 
-## Contact
+## :envelope: Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
