@@ -1,6 +1,7 @@
 # :zap: Angular API User Posts
 
 * App to get user details and posts from an external [JSONPlaceholder](https://jsonplaceholder.typicode.com) API.
+* Angular 10 used, do not upgrade
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -37,7 +38,9 @@
 
 ## :floppy_disk: Setup
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* Run `npm i` to install dependencies.
+* Run `ng serve` for a dev server.
+* Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## :computer: Code Examples
 
