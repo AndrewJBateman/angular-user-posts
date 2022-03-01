@@ -1,7 +1,6 @@
 # :zap: Angular API User Posts
 
 * App to get user details and posts from an external [JSONPlaceholder](https://jsonplaceholder.typicode.com) API.
-* Angular 10 used, do not upgrade
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -17,6 +16,7 @@
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -24,6 +24,7 @@
 * Angular routing module allows user to navigate between Users and Posts pages.
 * Angular httpClient used to get API data.
 * Sidebar with [Google Material](https://material.io/) icons and links to pages.
+* Tutorial code - see [:clap: Inspiration](#clap-inspiration) below
 
 ## :camera: Screenshots
 
@@ -32,8 +33,8 @@
 
 ## :signal_strength: Technologies
 
-* [Angular 10](https://angular.io/)
-* [RxJS Library v6](https://angular.io/guide/rx-library) used to [subscribe](http://reactivex.io/documentation/operators/subscribe.html) to the API data [observable](http://reactivex.io/documentation/observable.html).
+* [Angular 13](https://angular.io/)
+* [RxJS Library v7](https://angular.io/guide/rx-library) used to [subscribe](http://reactivex.io/documentation/operators/subscribe.html) to the API data [observable](http://reactivex.io/documentation/observable.html).
 * [Google Material](https://material.io/) icons used.
 
 ## :floppy_disk: Setup
@@ -77,17 +78,21 @@ export class DataService {
 
 * Angular httpClient used to get data from an external API.
 * Material icons used.
-* Updated to latest Angular 10 version with all dependency conflicts resolved.
+* Updated to latest Angular version with all dependency conflicts resolved.
 
 ## :clipboard: Status & To-Do List
 
-* Status: Working. Simple working app that extracts API data and displays it.
-* To-Do: add functionality.
+* Status: Working.
+* To-Do: Nothing
 
 ## :clap: Inspiration
 
 * [Coursetro Tutorial written version: Angular 6 Tutorial - Learn Angular 6 in this Crash Course](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course)
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
