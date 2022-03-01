@@ -42,6 +42,8 @@
 * Run `npm i` to install dependencies.
 * Run `ng serve` for a dev server.
 * Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* `npm run build` to create build folder then copy `index.html` to `404.html`
+* Github will deploy the docs folder automatically on commit
 
 ## :computer: Code Examples
 
