@@ -33,7 +33,7 @@
 
 ## :signal_strength: Technologies
 
-* [Angular 13](https://angular.io/)
+* [Angular 14](https://angular.io/)
 * [RxJS Library v7](https://angular.io/guide/rx-library) used to [subscribe](http://reactivex.io/documentation/operators/subscribe.html) to the API data [observable](http://reactivex.io/documentation/observable.html).
 * [Google Material](https://material.io/) icons used.
 
@@ -89,7 +89,7 @@ export class DataService {
 
 ## :clap: Inspiration
 
-* [Coursetro Tutorial written version: Angular 6 Tutorial - Learn Angular 6 in this Crash Course](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course)
+* [Coursetro Tutorial written version: Angular 6 Tutorial - Learn Angular 6 in this Crash Course](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course) (not secure)
 
 ## :file_folder: License
 
