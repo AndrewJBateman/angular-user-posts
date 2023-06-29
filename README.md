@@ -33,7 +33,7 @@
 
 ## :signal_strength: Technologies
 
-* [Angular 15](https://angular.io/)
+* [Angular 16](https://angular.io/)
 * [RxJS Library v7](https://angular.io/guide/rx-library) used to [subscribe](http://reactivex.io/documentation/operators/subscribe.html) to the API data [observable](http://reactivex.io/documentation/observable.html).
 * [Google Material](https://material.io/) icons used.
 
@@ -97,4 +97,4 @@ export class DataService {
 
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: `gomezbateman@yahoo.com`
